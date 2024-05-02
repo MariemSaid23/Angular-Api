@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Talabat.services/1.0.0": {
+        "runtime": {
+          "Talabat.services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Talabat.services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

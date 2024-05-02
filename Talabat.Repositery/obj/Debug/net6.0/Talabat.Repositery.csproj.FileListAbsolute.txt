@@ -1,0 +1,15 @@
+D:\E-commerce\Talabate\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.deps.json
+D:\E-commerce\Talabate\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.dll
+D:\E-commerce\Talabate\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.pdb
+D:\E-commerce\Talabate\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.dll
+D:\E-commerce\Talabate\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.pdb
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.AssemblyReference.cache
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfoInputs.cache
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfo.cs
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.CoreCompileInputs.cache
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat..344F01DD.Up2Date
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.dll
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll
