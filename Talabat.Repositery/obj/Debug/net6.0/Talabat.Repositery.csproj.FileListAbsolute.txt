@@ -13,3 +13,4 @@ D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.dl
 D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
 D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
 D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll
+D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.sourcelink.json

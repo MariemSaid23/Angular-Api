@@ -70,3 +70,4 @@ D:\E-commerce\Talabate\Talabate\obj\Debug\net6.0\refint\Talabate.dll
 D:\E-commerce\Talabate\Talabate\obj\Debug\net6.0\Talabate.pdb
 D:\E-commerce\Talabate\Talabate\obj\Debug\net6.0\Talabate.genruntimeconfig.cache
 D:\E-commerce\Talabate\Talabate\obj\Debug\net6.0\ref\Talabate.dll
+D:\E-commerce\Talabate\Talabate\obj\Debug\net6.0\Talabate.sourcelink.json

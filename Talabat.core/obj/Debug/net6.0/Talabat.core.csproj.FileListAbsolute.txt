@@ -9,3 +9,4 @@ D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
 D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
 D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
 D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
+D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.sourcelink.json
