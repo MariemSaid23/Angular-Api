@@ -1,9 +1,23 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Options;
+using System;
+using System.Linq;
+using System.Net;
+using System.Text.Json;
+using System.Threading.Tasks;
+using AutoMapper;
 using Talabat.core.Entities;
 using Talabat.core.Repositories.Contract;
 using Talabat.Repositery;
 using Talabat.Repositery.Data;
+using Talabate.Errors;
 using Talabate.Helpers;
+using Talabate.Middlewares;
+using Microsoft.Extensions.Logging;
+using Talabate.Extensions;
 
 namespace Talabate
 {
@@ -14,71 +28,70 @@ namespace Talabate
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
 
-            builder.Services.AddDbContext<StoreContext>(options=>
+
+
+
+            builder.Services.AddSwaggerServices();
+
+            builder.Services.AddDbContext<StoreContext>(options =>
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
-            //builder.Services.AddScoped<IGenericRepository<Product>, GenericRepository<Product>>();
-            //builder.Services.AddScoped<IGenericRepository<ProductBrand>, GenericRepository<ProductBrand>>();
-            //builder.Services.AddScoped<IGenericRepository<ProductCategory>, GenericRepository<ProductCategory>>();
-            // بدل ما اعمل اللي فوق 
-            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            //
 
-            //khloud
-            // WebApplicationBuilder.Services.AddAutoMapper(M => M.AddProfile(new MappingProfile()));
-
-            builder.Services.AddAutoMapper(typeof(MappingProfile));
-
-
+            builder.Services.AddAplicationServices();
             var app = builder.Build();
+            var loggerFactory = app.Services.GetRequiredService<ILoggerFactory>();
 
-
-
-
-            //try {
-            //    var services = scope.ServiceProvider;
-            //    var _dbContext = services.GetRequiredService<StoreContext>();
-            //    //Ask clr for Creating Dbcontext Explicitly
-            //    await _dbContext.Database.MigrateAsync();
-            //}
-            //finally { scope.Dispose(); }
-            //بدل try finally هستخدم keyWord Using do Dispose all scope
             using var scope = app.Services.CreateScope();
             var services = scope.ServiceProvider;
             var _dbContext = services.GetRequiredService<StoreContext>();
-            //Ask clr for Creating Dbcontext Explicitly
-            var loggerFactory= services.GetRequiredService<ILoggerFactory>();   
+            var logger = loggerFactory.CreateLogger<Program>();
+
             try
             {
-                await _dbContext.Database.MigrateAsync();//update-DataBase
-                await StoreContextSeed.SeedAsync(_dbContext);//Data seeding
+                await _dbContext.Database.MigrateAsync();
+                await StoreContextSeed.SeedAsync(_dbContext);
             }
             catch (Exception ex)
             {
-                var logger=loggerFactory.CreateLogger<Program>();
-                logger.LogError(ex,"an error has been accured during apply the migration");
-                
-               
-            } 
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
+                logger.LogError(ex, "An error has occurred during apply the migration");
             }
 
+            app.Use(async (httpContext, next) =>
+            {
+                try
+                {
+                    await next.Invoke(httpContext);
+                }
+                catch (Exception ex)
+                {
+                    logger.LogError(ex.Message);
+                    httpContext.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+                    httpContext.Response.ContentType = "application/json";
+                    var response = app.Environment.IsDevelopment() ?
+                        new ApiExcecutionResponse((int)HttpStatusCode.InternalServerError, ex.Message, ex.StackTrace.ToString()) :
+                        new ApiExcecutionResponse((int)HttpStatusCode.InternalServerError);
+                    var options = new JsonSerializerOptions() { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
+                    var json = JsonSerializer.Serialize(response, options);
+                    await httpContext.Response.WriteAsync(json);
+                }
+            });
+
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwaggerMidlewares();
+               // app.UseDeveloperExceptionPage();
+            }
+
+
             app.UseAuthorization();
+            app.UseStatusCodePagesWithReExecute("/errors/{0}");
+            app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.MapControllers();
-
             app.Run();
         }
     }

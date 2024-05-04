@@ -26,6 +26,7 @@ namespace Talabate.Controllers
         public ActionResult GetServererror()
         {
             var product = _dbcontext.Products.Find(100);
+
             var productToReturn = product.ToString();
             return Ok(productToReturn);
         }

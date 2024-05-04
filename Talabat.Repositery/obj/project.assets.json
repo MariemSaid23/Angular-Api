@@ -1993,11 +1993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
+      "projectUniqueName": "E:\\Angular Project with error vid 10\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
       "projectName": "Talabat.Repositery",
-      "projectPath": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
+      "projectPath": "E:\\Angular Project with error vid 10\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
       "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-      "outputPath": "E:\\Angular Project\\Talabat.Repositery\\obj\\",
+      "outputPath": "E:\\Angular Project with error vid 10\\Angular Project\\Talabat.Repositery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2014,8 +2014,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
-              "projectPath": "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj"
+            "E:\\Angular Project with error vid 10\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
+              "projectPath": "E:\\Angular Project with error vid 10\\Angular Project\\Talabat.core\\Talabat.core.csproj"
             }
           }
         }

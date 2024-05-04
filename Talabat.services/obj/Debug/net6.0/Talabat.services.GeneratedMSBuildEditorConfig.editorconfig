@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Talabat.services
-build_property.ProjectDir = E:\Angular Project\Talabat.services\
+build_property.ProjectDir = E:\Angular Project with error vid 10\Angular Project\Talabat.services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
