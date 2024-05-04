@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "E:\\Angular Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\talabate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\talabate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,111 +35,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductPictureUrlResolver.cs",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Helpers\\ProductPictureUrlResolver.cs",
-              "RelativeDocumentMoniker": "Talabate\\Helpers\\ProductPictureUrlResolver.cs",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Helpers\\ProductPictureUrlResolver.cs",
-              "RelativeToolTip": "Talabate\\Helpers\\ProductPictureUrlResolver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T10:23:49.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\appsettings.json",
-              "RelativeDocumentMoniker": "Talabate\\appsettings.json",
-              "ToolTip": "E:\\Angular Project\\Talabate\\appsettings.json",
-              "RelativeToolTip": "Talabate\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T09:47:40.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Talabate\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Talabate\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T09:44:58.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Helpers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Talabate\\Helpers\\MappingProfile.cs",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Helpers\\MappingProfile.cs",
-              "RelativeToolTip": "Talabate\\Helpers\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T08:28:22.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Talabate.csproj",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Talabate.csproj",
-              "RelativeDocumentMoniker": "Talabate\\Talabate.csproj",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Talabate.csproj",
-              "RelativeToolTip": "Talabate\\Talabate.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T08:27:42.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Program.cs",
-              "RelativeDocumentMoniker": "Talabate\\Program.cs",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Program.cs",
-              "RelativeToolTip": "Talabate\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T08:18:05.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\Angular Project\\Talabate\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Talabate\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\Angular Project\\Talabate\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Talabate\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T08:16:37.236Z"
+              "WhenOpened": "2024-05-04T13:08:44.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Product.cs",
-              "ToolTip": "E:\\Angular Project\\Talabat.core\\Entities\\Product.cs",
-              "RelativeToolTip": "Talabat.core\\Entities\\Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "DocumentIndex": 2,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Talabate\\Controllers\\BaseApiController.cs",
+              "ToolTip": "E:\\Angular Project\\Talabate\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Talabate\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T08:12:38.691Z"
+              "WhenOpened": "2024-05-04T13:08:40.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductToReturnDto.cs",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Dtos\\ProductToReturnDto.cs",
-              "RelativeDocumentMoniker": "Talabate\\Dtos\\ProductToReturnDto.cs",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Dtos\\ProductToReturnDto.cs",
-              "RelativeToolTip": "Talabate\\Dtos\\ProductToReturnDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "DocumentIndex": 0,
+              "Title": "BuggyController.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Controllers\\BuggyController.cs",
+              "RelativeDocumentMoniker": "Talabate\\Controllers\\BuggyController.cs",
+              "ToolTip": "E:\\Angular Project\\Talabate\\Controllers\\BuggyController.cs",
+              "RelativeToolTip": "Talabate\\Controllers\\BuggyController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T08:07:29.197Z"
+              "WhenOpened": "2024-05-04T13:06:54.44Z",
+              "EditorCaption": ""
             }
           ]
         },

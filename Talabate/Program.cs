@@ -75,7 +75,7 @@ namespace Talabate
             }
 
             app.UseAuthorization();
-
+            app.UseStaticFiles();
 
             app.MapControllers();
 
