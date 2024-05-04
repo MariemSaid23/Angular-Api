@@ -14,3 +14,19 @@ D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Reposi
 D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
 D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll
 D:\E-commerce\Talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.sourcelink.json
+E:\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.deps.json
+E:\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.dll
+E:\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.pdb
+E:\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.dll
+E:\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.pdb
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.AssemblyReference.cache
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfoInputs.cache
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfo.cs
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.CoreCompileInputs.cache
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.sourcelink.json
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat..344F01DD.Up2Date
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.dll
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
+E:\Angular Project\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll

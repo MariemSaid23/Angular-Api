@@ -10,3 +10,16 @@ D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
 D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
 D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
 D:\E-commerce\Talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.sourcelink.json
+E:\Angular Project\Talabat.core\bin\Debug\net6.0\Talabat.core.deps.json
+E:\Angular Project\Talabat.core\bin\Debug\net6.0\Talabat.core.dll
+E:\Angular Project\Talabat.core\bin\Debug\net6.0\Talabat.core.pdb
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfoInputs.cache
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfo.cs
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.CoreCompileInputs.cache
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.sourcelink.json
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
+E:\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.AssemblyReference.cache

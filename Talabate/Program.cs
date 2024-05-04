@@ -3,6 +3,7 @@ using Talabat.core.Entities;
 using Talabat.core.Repositories.Contract;
 using Talabat.Repositery;
 using Talabat.Repositery.Data;
+using Talabate.Helpers;
 
 namespace Talabate
 {
@@ -28,6 +29,12 @@ namespace Talabate
             //builder.Services.AddScoped<IGenericRepository<ProductCategory>, GenericRepository<ProductCategory>>();
             // بدل ما اعمل اللي فوق 
             builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
+            //khloud
+            // WebApplicationBuilder.Services.AddAutoMapper(M => M.AddProfile(new MappingProfile()));
+
+            builder.Services.AddAutoMapper(typeof(MappingProfile));
+
 
             var app = builder.Build();
 
