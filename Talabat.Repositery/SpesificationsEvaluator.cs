@@ -22,6 +22,12 @@ namespace Talabat.Repositery
             {
                 query=query.OrderByDescending(Spec.OrderByDesc);
             }
+
+
+            if(Spec.IsPaginationEnabled)
+            {
+                query = query.Skip(Spec.Skip).Take(Spec.Take);
+            }
             //query=_dbContext.Set<TEntity>().Where(E=>E.id ==1); 
             //include Expressions
             //1-p=>p.Brand

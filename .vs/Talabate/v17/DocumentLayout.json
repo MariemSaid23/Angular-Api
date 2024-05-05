@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Angular-Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabat.core\\specifications\\product specs\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabat.repositery\\spesificationsevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\spesificationsevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabat.core\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabat.repositery\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabat.core\\specifications\\product specs\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,60 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SpesificationsEvaluator.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.Repositery\\SpesificationsEvaluator.cs",
-              "RelativeDocumentMoniker": "Talabat.Repositery\\SpesificationsEvaluator.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.Repositery\\SpesificationsEvaluator.cs",
-              "RelativeToolTip": "Talabat.Repositery\\SpesificationsEvaluator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T19:11:40.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseSpecifications.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\BaseSpecifications.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\BaseSpecifications.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\BaseSpecifications.cs",
-              "RelativeToolTip": "Talabat.core\\Specifications\\BaseSpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T18:55:30.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISpecifications.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\ISpecifications.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\ISpecifications.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\ISpecifications.cs",
-              "RelativeToolTip": "Talabat.core\\Specifications\\ISpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T18:51:44.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductWithBrandAndCategorySpecifications.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T17:51:42.11Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -94,16 +46,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.Repositery\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.Repositery\\GenericRepository.cs",
+              "RelativeToolTip": "Talabat.Repositery\\GenericRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:46:48.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:29:42.341Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SpesificationsEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.Repositery\\SpesificationsEvaluator.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\SpesificationsEvaluator.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.Repositery\\SpesificationsEvaluator.cs",
+              "RelativeToolTip": "Talabat.Repositery\\SpesificationsEvaluator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:11:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\BaseSpecifications.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\BaseSpecifications.cs",
+              "RelativeToolTip": "Talabat.core\\Specifications\\BaseSpecifications.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:55:30.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\ISpecifications.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Specifications\\ISpecifications.cs",
+              "RelativeToolTip": "Talabat.core\\Specifications\\ISpecifications.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:51:44.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabate\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Talabate\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabate\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Talabate\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAuwB8AAABeAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T17:16:12.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T17:16:12.341Z"
             }
           ]
         },
