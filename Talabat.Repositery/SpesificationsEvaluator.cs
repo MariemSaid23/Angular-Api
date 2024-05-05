@@ -14,6 +14,14 @@ namespace Talabat.Repositery
             {
                 query = query.Where(Spec.Criteria);
             }
+            if(Spec.OrderBy != null)
+            {
+                query = query.OrderBy(Spec.OrderBy); 
+            }
+            else if (Spec.OrderByDesc != null)
+            {
+                query=query.OrderByDescending(Spec.OrderByDesc);
+            }
             //query=_dbContext.Set<TEntity>().Where(E=>E.id ==1); 
             //include Expressions
             //1-p=>p.Brand

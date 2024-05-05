@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z8h2izeylm/1A/nnMS8G63FvBfq8tq9OfK3/Yh8E0/S/OpGohZzO6m0OCPT7+jK9F+pfTcIL87JKakNtgpEgPA==",
+  "dgSpecHash": "Wcv16D6FfNfjO+iW24AcoykQkrqAroZr89nqvnRstTJrgKf9vQP5eZXcs1Ek3IDaD+ecHq9nLDZK3tgIcdeTqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.Repositery\\Talabat.Repositery.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.Repositery\\Talabat.Repositery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

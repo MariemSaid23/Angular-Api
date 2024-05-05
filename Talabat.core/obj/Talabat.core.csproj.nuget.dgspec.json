@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj": {
+    "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj",
         "projectName": "Talabat.core",
-        "projectPath": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\Talabat.core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.core\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabat.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
