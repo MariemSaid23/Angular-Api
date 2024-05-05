@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Angular Project with error vid 10\\Angular Project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Angular-Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|c:\\users\\hp\\source\\repos\\angular-api\\talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabate\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Talabate\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Angular-Api\\Talabate\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Talabate\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:16:12.341Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -20,7 +20,7 @@ namespace Talabat.Repositery
             _dbContext = dbContext;
         }
 
-        public async Task<IEnumerable<T>> GetAllAsync()
+        public async Task<IReadOnlyList<T>> GetAllAsync()
 
         {
             ///if(typeof(T)==typeof(Product)) {
@@ -29,7 +29,7 @@ namespace Talabat.Repositery
             return await _dbContext.Set<T>().ToListAsync();
         }
 
-        public async Task<IEnumerable<T>> GetAllWithSpecAsync(ISpecifications<T> spec)
+        public async Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecifications<T> spec)
         {
            return await ApllySpecifications(spec).AsNoTracking().ToListAsync();
         }

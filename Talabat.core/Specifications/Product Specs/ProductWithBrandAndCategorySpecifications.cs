@@ -13,13 +13,16 @@ namespace Talabat.core.Specifications.Product_Specs
 
         public ProductWithBrandAndCategorySpecifications():base()
         {
-            Includes.Add(p=>p.Brand);
-            Includes.Add(p=>p.Category);
+            /*Criteria = p => p.Id == id;*/ // Assuming Product has an Id property // Assuming Product has an Id property
+            Includes.Add(p => p.Brand);
+            Includes.Add(p => p.Category);
         }
 
         public ProductWithBrandAndCategorySpecifications(int id)
         {
             this.id = id;
+            Includes.Add(p => p.Brand);
+            Includes.Add(p => p.Category);
         }
     }
 }

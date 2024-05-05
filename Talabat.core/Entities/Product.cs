@@ -15,11 +15,14 @@ namespace Talabat.core.Entities
         public decimal Price { get; set;}
         //[ForeignKey("ProductBrand")]
         //[ForeignKey(nameof(Product.Brand))]
+
+        //[ForeignKey("Brand")]
         public int BrandId { get; set; } //Foregin Key Column => ProductBrand
         
-        public ProductBrand Brand { get; set; }//navigational property[One]
-        
+        public   ProductBrand Brand { get; set; }//navigational property[One]
+
+        //[ForeignKey("Category")]
         public int CategoryId { get; set; }
-        public ProductCategory Category { get; set; }   //navigational property[One]
+        public   ProductCategory Category { get; set; }   //navigational property[One]
     }
 }

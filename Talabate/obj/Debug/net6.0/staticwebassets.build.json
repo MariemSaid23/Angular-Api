@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JhWisST2F1fjCflMh8gemWjLwdrbw1XgCpKEGII+Zr0=",
+  "Hash": "6KvyPYTlPgmD6gG+OvpndFjocgRChDF4MceBR0jhWrI=",
   "Source": "Talabate",
   "BasePath": "_content/Talabate",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Talabate\\wwwroot",
       "Source": "Talabate",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\blueberry-cheesecake.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\blueberry-cheesecake.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/blueberry-cheesecake.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\blueberry-cheesecake.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\double-caramel-frappuccino.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\double-caramel-frappuccino.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/double-caramel-frappuccino.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\double-caramel-frappuccino.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\double-smoked-bacon-cheddar-and-egg-sandwich.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\double-smoked-bacon-cheddar-and-egg-sandwich.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/double-smoked-bacon-cheddar-and-egg-sandwich.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\double-smoked-bacon-cheddar-and-egg-sandwich.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\dragon-drink-starbucks-refreshers-beverage-with-oleato-golden-foam.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\glazed-donuts.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\glazed-donuts.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/glazed-donuts.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\glazed-donuts.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\greek-salad.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\greek-salad.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/greek-salad.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\greek-salad.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\honey-cake.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\honey-cake.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/honey-cake.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\honey-cake.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\hot-caramel-macchiato.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\hot-caramel-macchiato.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/hot-caramel-macchiato.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\hot-caramel-macchiato.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\iced-black-tea-lemonade.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\iced-black-tea-lemonade.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/iced-black-tea-lemonade.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\iced-black-tea-lemonade.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\iced-cafe-latte.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\iced-cafe-latte.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/iced-cafe-latte.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\iced-cafe-latte.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\iced-caramel-macchiato.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\iced-caramel-macchiato.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/iced-caramel-macchiato.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\iced-caramel-macchiato.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\iced-chai-tea-latte-with-oleato-golden-foam.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\iced-chai-tea-latte-with-oleato-golden-foam.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/iced-chai-tea-latte-with-oleato-golden-foam.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\iced-chai-tea-latte-with-oleato-golden-foam.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\iced-london-fog-tea-latte.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\iced-london-fog-tea-latte.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/iced-london-fog-tea-latte.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\iced-london-fog-tea-latte.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\iced-matcha.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\iced-matcha.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/iced-matcha.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\iced-matcha.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\iced-matcha-latte.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\iced-matcha-latte.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/iced-matcha-latte.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\iced-matcha-latte.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\turkey-bacon-cheddar-and-egg-white-sandwich.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\turkey-bacon-cheddar-and-egg-white-sandwich.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/turkey-bacon-cheddar-and-egg-white-sandwich.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\turkey-bacon-cheddar-and-egg-white-sandwich.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\white-chocolate-mocha.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\white-chocolate-mocha.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/white-chocolate-mocha.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\white-chocolate-mocha.png"
     },
     {
-      "Identity": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\images\\products\\white-chocolate-mocha-frappuccino.png",
+      "Identity": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\images\\products\\white-chocolate-mocha-frappuccino.png",
       "SourceId": "Talabate",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Angular Project with error vid 10\\Angular Project\\Talabate\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabate\\wwwroot\\",
       "BasePath": "_content/Talabate",
       "RelativePath": "images/products/white-chocolate-mocha-frappuccino.png",
       "AssetKind": "All",

@@ -46,3 +46,19 @@ E:\Angular Project with error vid 10\Angular Project\Talabat.Repositery\obj\Debu
 E:\Angular Project with error vid 10\Angular Project\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
 E:\Angular Project with error vid 10\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
 E:\Angular Project with error vid 10\Angular Project\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.deps.json
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.pdb
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.pdb
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.sourcelink.json
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat..344F01DD.Up2Date
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll

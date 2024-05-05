@@ -36,3 +36,16 @@ E:\Angular Project with error vid 10\Angular Project\Talabat.core\obj\Debug\net6
 E:\Angular Project with error vid 10\Angular Project\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
 E:\Angular Project with error vid 10\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
 E:\Angular Project with error vid 10\Angular Project\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\bin\Debug\net6.0\Talabat.core.deps.json
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\bin\Debug\net6.0\Talabat.core.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\bin\Debug\net6.0\Talabat.core.pdb
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.sourcelink.json
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
+C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
