@@ -1,22 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Options;
-using System;
-using System.Linq;
+﻿using Microsoft.EntityFrameworkCore;
 using System.Net;
 using System.Text.Json;
-using System.Threading.Tasks;
-using AutoMapper;
-using Talabat.core.Entities;
-using Talabat.core.Repositories.Contract;
-using Talabat.Repositery;
-using Talabat.Repositery.Data;
+using Talabat.Repositery.Generic_Repository.Data;
 using Talabate.Errors;
-using Talabate.Helpers;
-using Talabate.Middlewares;
-using Microsoft.Extensions.Logging;
 using Talabate.Extensions;
 
 namespace Talabate

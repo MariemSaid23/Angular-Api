@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Alahram\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.services\\Talabat.services.csproj",
+      "projectUniqueName": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
       "projectName": "Talabat.services",
-      "projectPath": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.services\\Talabat.services.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Source\\Repos\\Angular-Api\\Talabat.services\\obj\\",
+      "projectPath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
+      "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
+      "outputPath": "E:\\Angular Project\\Talabat.services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

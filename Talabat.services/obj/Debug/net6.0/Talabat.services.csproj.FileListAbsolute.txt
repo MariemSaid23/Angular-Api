@@ -9,3 +9,15 @@ D:\E-commerce\Talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.dll
 D:\E-commerce\Talabate\Talabat.services\obj\Debug\net6.0\refint\Talabat.services.dll
 D:\E-commerce\Talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.pdb
 D:\E-commerce\Talabate\Talabat.services\obj\Debug\net6.0\ref\Talabat.services.dll
+E:\Angular Project\Talabat.services\bin\Debug\net6.0\Talabat.services.deps.json
+E:\Angular Project\Talabat.services\bin\Debug\net6.0\Talabat.services.dll
+E:\Angular Project\Talabat.services\bin\Debug\net6.0\Talabat.services.pdb
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.AssemblyInfoInputs.cache
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.AssemblyInfo.cs
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.csproj.CoreCompileInputs.cache
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.sourcelink.json
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.dll
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\refint\Talabat.services.dll
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.pdb
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\ref\Talabat.services.dll

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Talabat.core.Repositories.Contract;
 using Talabat.Repositery;
+using Talabat.Repositery.Generic_Repository;
 using Talabate.Errors;
 using Talabate.Helpers;
 
