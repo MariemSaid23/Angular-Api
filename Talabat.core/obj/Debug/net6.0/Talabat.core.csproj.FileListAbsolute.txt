@@ -62,3 +62,16 @@ E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
 E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
 E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
 E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
+D:\Test talabate\Talabat.core\bin\Debug\net6.0\Talabat.core.deps.json
+D:\Test talabate\Talabat.core\bin\Debug\net6.0\Talabat.core.dll
+D:\Test talabate\Talabat.core\bin\Debug\net6.0\Talabat.core.pdb
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.AssemblyReference.cache
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfoInputs.cache
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfo.cs
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.CoreCompileInputs.cache
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.sourcelink.json
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
+D:\Test talabate\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll

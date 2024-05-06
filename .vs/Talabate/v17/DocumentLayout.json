@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u06318rar\\Angular Project\\",
+  "WorkspaceRootPath": "D:\\Test talabate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\\u06318rar\\angular project\\talabat.core\\specifications\\product specs\\productswithfilterationforcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productswithfilterationforcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|d:\\test talabate\\talabat.repositery\\identity\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\identity\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|d:\\test talabate\\talabat.repositery\\identity\\applicationidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\identity\\applicationidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\\u06318rar\\angular project\\talabat.core\\specifications\\product specs\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\\u06318rar\\angular project\\talabat.core\\specifications\\product specs\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\dtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\dtos\\customerbasketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|d:\\test talabate\\talabat.core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,45 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsWithFilterationForCountSpecifications.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
-              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Program.cs",
+              "RelativeDocumentMoniker": "Talabate\\Program.cs",
+              "ToolTip": "D:\\Test talabate\\Talabate\\Program.cs",
+              "RelativeToolTip": "Talabate\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwFoAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:52:19.571Z",
+              "WhenOpened": "2024-05-06T22:14:24.598Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductWithBrandAndCategorySpecifications.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABoAAAA",
+              "DocumentIndex": 1,
+              "Title": "ApplicationIdentityDbContextSeed.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "ToolTip": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:50:49.356Z",
+              "WhenOpened": "2024-05-06T22:59:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "ToolTip": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:53:34.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductSpecParams.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
-              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabat.core\\Entities\\Identity\\Address.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Identity\\Address.cs",
+              "ToolTip": "D:\\Test talabate\\Talabat.core\\Entities\\Identity\\Address.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\Identity\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:45:21.864Z",
+              "WhenOpened": "2024-05-06T22:11:40.748Z",
               "EditorCaption": ""
             },
             {
@@ -90,69 +88,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Talabate\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabate\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Talabate\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAowCQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:44:24.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductToReturnDto.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Dtos\\ProductToReturnDto.cs",
-              "RelativeDocumentMoniker": "Talabate\\Dtos\\ProductToReturnDto.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabate\\Dtos\\ProductToReturnDto.cs",
-              "RelativeToolTip": "Talabate\\Dtos\\ProductToReturnDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T18:44:12.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Helpers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Talabate\\Helpers\\MappingProfile.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabate\\Helpers\\MappingProfile.cs",
-              "RelativeToolTip": "Talabate\\Helpers\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T17:00:32.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerBasketDto.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Dtos\\CustomerBasketDto.cs",
-              "RelativeDocumentMoniker": "Talabate\\Dtos\\CustomerBasketDto.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabate\\Dtos\\CustomerBasketDto.cs",
-              "RelativeToolTip": "Talabate\\Dtos\\CustomerBasketDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T16:59:13.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Talabate\\Controllers\\BasketController.cs",
-              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabate\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Talabate\\Controllers\\BasketController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T16:57:04.409Z",
-              "EditorCaption": ""
             }
           ]
         },

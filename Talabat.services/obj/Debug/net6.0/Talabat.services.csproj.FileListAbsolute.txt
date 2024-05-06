@@ -21,3 +21,15 @@ E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.dll
 E:\Angular Project\Talabat.services\obj\Debug\net6.0\refint\Talabat.services.dll
 E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.pdb
 E:\Angular Project\Talabat.services\obj\Debug\net6.0\ref\Talabat.services.dll
+D:\Test talabate\Talabat.services\bin\Debug\net6.0\Talabat.services.deps.json
+D:\Test talabate\Talabat.services\bin\Debug\net6.0\Talabat.services.dll
+D:\Test talabate\Talabat.services\bin\Debug\net6.0\Talabat.services.pdb
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.AssemblyInfoInputs.cache
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.AssemblyInfo.cs
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.csproj.CoreCompileInputs.cache
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.sourcelink.json
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.dll
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\refint\Talabat.services.dll
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.pdb
+D:\Test talabate\Talabat.services\obj\Debug\net6.0\ref\Talabat.services.dll

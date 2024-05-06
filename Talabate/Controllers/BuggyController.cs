@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Talabat.Repositery.Generic_Repository.Data;
+using Talabat.Repositery.Data;
 using Talabate.Errors;
 
 namespace Talabate.Controllers

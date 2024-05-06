@@ -1,10 +1,13 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using StackExchange.Redis;
 using System.Net;
 using System.Text.Json;
+using Talabat.core.Entities.Identity;
 using Talabat.core.Repositories.Contract;
 using Talabat.Repositery.Basket_Repository;
-using Talabat.Repositery.Generic_Repository.Data;
+using Talabat.Repositery.Data;
+using Talabat.Repositery.Identity;
 using Talabate.Errors;
 using Talabate.Extensions;
 
@@ -29,6 +32,14 @@ namespace Talabate
             builder.Services.AddScoped(typeof(IBasketRepository), typeof(BasketRepository));
 
             builder.Services.AddSwaggerServices();
+            builder.Services.AddAplicationServices();
+
+
+            builder.Services.AddDbContext<ApplicationIdentityDbContext>(options =>
+            {
+
+                options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
+            });
 
             builder.Services.AddDbContext<StoreContext>(options =>
             {
@@ -36,19 +47,29 @@ namespace Talabate
             });
             //
 
-            builder.Services.AddAplicationServices();
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+            {
+
+            }).AddEntityFrameworkStores<ApplicationIdentityDbContext>();
+
             var app = builder.Build();
             var loggerFactory = app.Services.GetRequiredService<ILoggerFactory>();
 
             using var scope = app.Services.CreateScope();
             var services = scope.ServiceProvider;
             var _dbContext = services.GetRequiredService<StoreContext>();
+            var _identitydbContext = services.GetRequiredService<ApplicationIdentityDbContext>();
+
             var logger = loggerFactory.CreateLogger<Program>();
 
             try
             {
                 await _dbContext.Database.MigrateAsync();
                 await StoreContextSeed.SeedAsync(_dbContext);
+                await _identitydbContext.Database.MigrateAsync();
+
+                var _userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
+                await ApplicationIdentityDbContextSeed.SeedUserAsync(_userManager );
             }
             catch (Exception ex)
             {

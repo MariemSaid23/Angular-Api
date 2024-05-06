@@ -2,7 +2,7 @@
 using Talabat.core.Entities;
 using Talabat.core.Repositories.Contract;
 using Talabat.core.Specifications;
-using Talabat.Repositery.Generic_Repository.Data;
+using Talabat.Repositery.Data;
 
 namespace Talabat.Repositery.Generic_Repository
 {

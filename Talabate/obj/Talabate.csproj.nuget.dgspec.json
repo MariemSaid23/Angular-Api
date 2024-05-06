@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ر8rar\\Angular Project\\Talabate\\Talabate.csproj": {}
+    "D:\\Test talabate\\Talabate\\Talabate.csproj": {}
   },
   "projects": {
-    "E:\\ر8rar\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
+    "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ر8rar\\Angular Project\\Talabat.core\\Talabat.core.csproj",
+        "projectUniqueName": "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj",
         "projectName": "Talabat.core",
-        "projectPath": "E:\\ر8rar\\Angular Project\\Talabat.core\\Talabat.core.csproj",
-        "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-        "outputPath": "E:\\ر8rar\\Angular Project\\Talabat.core\\obj\\",
+        "projectPath": "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Test talabate\\Talabat.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.29, )"
+            },
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.7.33, )"
@@ -70,21 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
+    "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
+        "projectUniqueName": "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj",
         "projectName": "Talabat.Repositery",
-        "projectPath": "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
-        "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-        "outputPath": "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\obj\\",
+        "projectPath": "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Test talabate\\Talabat.Repositery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ر8rar\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
-                "projectPath": "E:\\ر8rar\\Angular Project\\Talabat.core\\Talabat.core.csproj"
+              "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj": {
+                "projectPath": "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj"
               }
             }
           }
@@ -140,21 +144,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ر8rar\\Angular Project\\Talabate\\Talabate.csproj": {
+    "D:\\Test talabate\\Talabate\\Talabate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ر8rar\\Angular Project\\Talabate\\Talabate.csproj",
+        "projectUniqueName": "D:\\Test talabate\\Talabate\\Talabate.csproj",
         "projectName": "Talabate",
-        "projectPath": "E:\\ر8rar\\Angular Project\\Talabate\\Talabate.csproj",
-        "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-        "outputPath": "E:\\ر8rar\\Angular Project\\Talabate\\obj\\",
+        "projectPath": "D:\\Test talabate\\Talabate\\Talabate.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Test talabate\\Talabate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,8 +172,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
-                "projectPath": "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj"
+              "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj": {
+                "projectPath": "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj"
               }
             }
           }
@@ -219,7 +223,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
