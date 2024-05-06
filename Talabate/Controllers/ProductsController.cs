@@ -1,9 +1,7 @@
 ﻿using AutoMapper;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Talabat.core.Entities;
 using Talabat.core.Repositories.Contract;
-using Talabat.core.Specifications;
 using Talabat.core.Specifications.Product_Specs;
 using Talabate.Dtos;
 using Talabate.Errors;
@@ -11,7 +9,7 @@ using Talabate.Helpers;
 
 namespace Talabate.Controllers
 {
-  
+
     public class ProductsController : BaseApiController
     {
         private readonly IGenericRepository<Product> _productsRepo;

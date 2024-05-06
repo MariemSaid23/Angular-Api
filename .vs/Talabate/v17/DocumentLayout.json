@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "E:\\\u06318rar\\Angular Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\\u06318rar\\angular project\\talabat.core\\specifications\\product specs\\productswithfilterationforcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productswithfilterationforcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\\u06318rar\\angular project\\talabat.core\\specifications\\product specs\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\\u06318rar\\angular project\\talabat.core\\specifications\\product specs\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\specifications\\product specs\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\dtos\\producttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\\u06318rar\\angular project\\talabate\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsWithFilterationForCountSpecifications.cs",
+              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
+              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
+              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductsWithFilterationForCountSpecifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:52:19.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductWithBrandAndCategorySpecifications.cs",
+              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
+              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
+              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductWithBrandAndCategorySpecifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:50:49.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "RelativeToolTip": "Talabat.core\\Specifications\\Product Specs\\ProductSpecParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:45:21.864Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -35,6 +94,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Talabate\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabate\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Talabate\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:44:24.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductToReturnDto.cs",
+              "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Dtos\\ProductToReturnDto.cs",
+              "RelativeDocumentMoniker": "Talabate\\Dtos\\ProductToReturnDto.cs",
+              "ToolTip": "E:\\\u06318rar\\Angular Project\\Talabate\\Dtos\\ProductToReturnDto.cs",
+              "RelativeToolTip": "Talabate\\Dtos\\ProductToReturnDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:44:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Helpers\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Talabate\\Helpers\\MappingProfile.cs",
@@ -46,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CustomerBasketDto.cs",
               "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Dtos\\CustomerBasketDto.cs",
               "RelativeDocumentMoniker": "Talabate\\Dtos\\CustomerBasketDto.cs",
@@ -58,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BasketController.cs",
               "DocumentMoniker": "E:\\\u06318rar\\Angular Project\\Talabate\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "Talabate\\Controllers\\BasketController.cs",
