@@ -49,3 +49,16 @@ C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.
 C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
 C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
 C:\Users\HP\Source\Repos\Angular-Api\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
+E:\ر8rar\Angular Project\Talabat.core\bin\Debug\net6.0\Talabat.core.deps.json
+E:\ر8rar\Angular Project\Talabat.core\bin\Debug\net6.0\Talabat.core.dll
+E:\ر8rar\Angular Project\Talabat.core\bin\Debug\net6.0\Talabat.core.pdb
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.AssemblyReference.cache
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfoInputs.cache
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfo.cs
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.CoreCompileInputs.cache
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.sourcelink.json
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
+E:\ر8rar\Angular Project\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll

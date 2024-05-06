@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj": {}
+    "E:\\ر8rar\\Angular Project\\Talabat.services\\Talabat.services.csproj": {}
   },
   "projects": {
-    "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj": {
+    "E:\\ر8rar\\Angular Project\\Talabat.services\\Talabat.services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
+        "projectUniqueName": "E:\\ر8rar\\Angular Project\\Talabat.services\\Talabat.services.csproj",
         "projectName": "Talabat.services",
-        "projectPath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
+        "projectPath": "E:\\ر8rar\\Angular Project\\Talabat.services\\Talabat.services.csproj",
         "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-        "outputPath": "E:\\Angular Project\\Talabat.services\\obj\\",
+        "outputPath": "E:\\ر8rar\\Angular Project\\Talabat.services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",

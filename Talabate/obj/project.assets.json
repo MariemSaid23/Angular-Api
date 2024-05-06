@@ -2656,11 +2656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Angular Project\\Talabate\\Talabate.csproj",
+      "projectUniqueName": "E:\\ر8rar\\Angular Project\\Talabate\\Talabate.csproj",
       "projectName": "Talabate",
-      "projectPath": "E:\\Angular Project\\Talabate\\Talabate.csproj",
+      "projectPath": "E:\\ر8rar\\Angular Project\\Talabate\\Talabate.csproj",
       "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-      "outputPath": "E:\\Angular Project\\Talabate\\obj\\",
+      "outputPath": "E:\\ر8rar\\Angular Project\\Talabate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2677,8 +2677,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
-              "projectPath": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj"
+            "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
+              "projectPath": "E:\\ر8rar\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj"
             }
           }
         }

@@ -62,3 +62,19 @@ C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat
 C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
 C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
 C:\Users\HP\Source\Repos\Angular-Api\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll
+E:\ر8rar\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.deps.json
+E:\ر8rar\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.dll
+E:\ر8rar\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.pdb
+E:\ر8rar\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.dll
+E:\ر8rar\Angular Project\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.pdb
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.AssemblyReference.cache
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfoInputs.cache
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfo.cs
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.CoreCompileInputs.cache
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.sourcelink.json
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat..344F01DD.Up2Date
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.dll
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
+E:\ر8rar\Angular Project\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll
