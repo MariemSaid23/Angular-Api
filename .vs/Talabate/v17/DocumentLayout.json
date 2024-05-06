@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Test talabate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|d:\\test talabate\\talabat.repositery\\identity\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\identity\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|d:\\test talabate\\talabat.repositery\\identity\\applicationidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\identity\\applicationidentitydbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|d:\\test talabate\\talabat.repositery\\identity\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\identity\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|d:\\test talabate\\talabat.core\\entities\\identity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,60 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Test talabate\\Talabate\\Program.cs",
               "RelativeDocumentMoniker": "Talabate\\Program.cs",
               "ToolTip": "D:\\Test talabate\\Talabate\\Program.cs",
               "RelativeToolTip": "Talabate\\Program.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAIwFoAAABnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T22:14:24.598Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationIdentityDbContextSeed.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
-              "RelativeDocumentMoniker": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
-              "ToolTip": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
-              "RelativeToolTip": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:59:39.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationIdentityDbContext.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
-              "RelativeDocumentMoniker": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
-              "ToolTip": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
-              "RelativeToolTip": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:53:34.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Address.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabat.core\\Entities\\Identity\\Address.cs",
-              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Identity\\Address.cs",
-              "ToolTip": "D:\\Test talabate\\Talabat.core\\Entities\\Identity\\Address.cs",
-              "RelativeToolTip": "Talabat.core\\Entities\\Identity\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T22:11:40.748Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -88,6 +60,79 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Talabate\\Dtos\\LoginDto.cs",
+              "ToolTip": "D:\\Test talabate\\Talabate\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Talabate\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:18:13.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Talabate\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Talabate\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:03:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Talabate\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\Test talabate\\Talabate\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Talabate\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:11:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationIdentityDbContextSeed.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "ToolTip": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContextSeed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:59:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "ToolTip": "D:\\Test talabate\\Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Identity\\ApplicationIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:53:34.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabat.core\\Entities\\Identity\\Address.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Identity\\Address.cs",
+              "ToolTip": "D:\\Test talabate\\Talabat.core\\Entities\\Identity\\Address.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\Identity\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:11:40.748Z"
             }
           ]
         },
