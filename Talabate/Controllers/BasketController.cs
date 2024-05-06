@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using System.Security.Cryptography.X509Certificates;
 using Talabat.core.Entities.Basket;
 using Talabat.core.Repositories.Contract;
+using Talabate.Dtos;
 using Talabate.Errors;
 
 namespace Talabate.Controllers
@@ -11,10 +11,12 @@ namespace Talabate.Controllers
     public class BasketController : BaseApiController
     {
         private readonly IBasketRepository _basketRepository;
+        private readonly IMapper _mapper;
 
-        public BasketController(IBasketRepository basketRepository)
+        public BasketController(IBasketRepository basketRepository,IMapper mapper)
         {
             _basketRepository = basketRepository;
+            _mapper = mapper;
         }
         [HttpGet]
         public async Task<ActionResult<CustomerBasket>> GetBasket(string id)
@@ -24,14 +26,15 @@ namespace Talabate.Controllers
             return Ok(basket is null ? new CustomerBasket(id) : basket);
         }
         [HttpPost]
-        public async Task<ActionResult<CustomerBasket>> UpdateBasket(CustomerBasket basket)
+        public async Task<ActionResult<CustomerBasket>> UpdateBasket(CustomerBasketDto basket)
         {
-            {
-                var CreateOrUpdateBasket = await _basketRepository.UpdateBasketAsync(basket);
+            var mappedBasket = _mapper.Map<CustomerBasketDto, CustomerBasket>(basket);
+
+                var CreateOrUpdateBasket = await _basketRepository.UpdateBasketAsync(mappedBasket);
                 if (CreateOrUpdateBasket is null) return BadRequest(new ApiResponse(400));
                 return Ok(CreateOrUpdateBasket);
 
-            }
+            
         }
         [HttpDelete]
         public async Task<ActionResult<bool>> DeleteBasket(string id)
