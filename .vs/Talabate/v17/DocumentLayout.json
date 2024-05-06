@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\Angular Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|e:\\angular project\\talabat.repositery\\basket repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\basket repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\repositories.contract\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\repositories.contract\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationServicesExtension.cs",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "RelativeDocumentMoniker": "Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "RelativeToolTip": "Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\Repositories.Contract\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Repositories.Contract\\IBasketRepository.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.core\\Repositories.Contract\\IBasketRepository.cs",
+              "RelativeToolTip": "Talabat.core\\Repositories.Contract\\IBasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T03:59:03.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T07:03:33.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Angular Project\\Talabate\\Program.cs",
               "RelativeDocumentMoniker": "Talabate\\Program.cs",
               "ToolTip": "E:\\Angular Project\\Talabate\\Program.cs",
               "RelativeToolTip": "Talabate\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAADgvyEAAAA5AAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T03:58:31.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T06:15:28.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BuggyController.cs",
-              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Controllers\\BuggyController.cs",
-              "RelativeDocumentMoniker": "Talabate\\Controllers\\BuggyController.cs",
-              "ToolTip": "E:\\Angular Project\\Talabate\\Controllers\\BuggyController.cs",
-              "RelativeToolTip": "Talabate\\Controllers\\BuggyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.Repositery\\Basket Repository\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Basket Repository\\BasketRepository.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.Repositery\\Basket Repository\\BasketRepository.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Basket Repository\\BasketRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T03:58:08.689Z",
+              "WhenOpened": "2024-05-06T06:09:55.009Z",
               "EditorCaption": ""
             }
           ]

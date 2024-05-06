@@ -1,9 +1,13 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using StackExchange.Redis;
 using System.Net;
 using System.Text.Json;
+using Talabat.core.Repositories.Contract;
 using Talabat.Repositery.Generic_Repository.Data;
 using Talabate.Errors;
 using Talabate.Extensions;
+using Talabate.Helpers;
 
 namespace Talabate
 {
@@ -16,9 +20,8 @@ namespace Talabate
             // Add services to the container.
             builder.Services.AddControllers();
 
-
-
-
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
             builder.Services.AddSwaggerServices();
 
             builder.Services.AddDbContext<StoreContext>(options =>
@@ -26,7 +29,16 @@ namespace Talabate
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
             //
-
+            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(IGenericRepository<>));
+            builder.Services.AddAutoMapper(typeof(MappingProfile));
+            builder.Services.AddScoped<IConnectionMultiplexer>((ServiceProvider) =>
+            {
+                var connection = builder.Configuration.GetConnectionString("redis");
+                return ConnectionMultiplexer.Connect(connection);
+            }
+                
+                
+                );
             builder.Services.AddAplicationServices();
             var app = builder.Build();
             var loggerFactory = app.Services.GetRequiredService<ILoggerFactory>();
