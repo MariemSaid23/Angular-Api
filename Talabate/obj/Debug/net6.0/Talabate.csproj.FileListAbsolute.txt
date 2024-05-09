@@ -470,3 +470,16 @@ D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Test talabate\Talabate\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Test talabate\Talabate\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Talabat.services.dll
+E:\Angular Project\Talabate\bin\Debug\net6.0\Talabat.services.pdb

@@ -3388,19 +3388,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Alahram\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test talabate\\Talabate\\Talabate.csproj",
+      "projectUniqueName": "E:\\Angular Project\\Talabate\\Talabate.csproj",
       "projectName": "Talabate",
-      "projectPath": "D:\\Test talabate\\Talabate\\Talabate.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Test talabate\\Talabate\\obj\\",
+      "projectPath": "E:\\Angular Project\\Talabate\\Talabate.csproj",
+      "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
+      "outputPath": "E:\\Angular Project\\Talabate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3414,11 +3414,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj": {
-              "projectPath": "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj"
+            "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
+              "projectPath": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj"
             },
-            "D:\\Test talabate\\Talabat.services\\Talabat.services.csproj": {
-              "projectPath": "D:\\Test talabate\\Talabat.services\\Talabat.services.csproj"
+            "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj": {
+              "projectPath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj"
             }
           }
         }
@@ -3472,7 +3472,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

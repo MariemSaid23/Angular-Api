@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test talabate\\Talabate\\Talabate.csproj": {}
+    "E:\\Angular Project\\Talabate\\Talabate.csproj": {}
   },
   "projects": {
-    "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj": {
+    "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj",
+        "projectUniqueName": "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj",
         "projectName": "Talabat.core",
-        "projectPath": "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Test talabate\\Talabat.core\\obj\\",
+        "projectPath": "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj",
+        "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
+        "outputPath": "E:\\Angular Project\\Talabat.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,21 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj": {
+    "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj",
+        "projectUniqueName": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
         "projectName": "Talabat.Repositery",
-        "projectPath": "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Test talabate\\Talabat.Repositery\\obj\\",
+        "projectPath": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj",
+        "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
+        "outputPath": "E:\\Angular Project\\Talabat.Repositery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj": {
-                "projectPath": "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj"
+              "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
+                "projectPath": "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj"
               }
             }
           }
@@ -144,21 +144,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Test talabate\\Talabat.services\\Talabat.services.csproj": {
+    "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test talabate\\Talabat.services\\Talabat.services.csproj",
+        "projectUniqueName": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
         "projectName": "Talabat.services",
-        "projectPath": "D:\\Test talabate\\Talabat.services\\Talabat.services.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Test talabate\\Talabat.services\\obj\\",
+        "projectPath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
+        "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
+        "outputPath": "E:\\Angular Project\\Talabat.services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,8 +172,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj": {
-                "projectPath": "D:\\Test talabate\\Talabat.core\\Talabat.core.csproj"
+              "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
+                "projectPath": "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj"
               }
             }
           }
@@ -214,21 +214,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Test talabate\\Talabate\\Talabate.csproj": {
+    "E:\\Angular Project\\Talabate\\Talabate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test talabate\\Talabate\\Talabate.csproj",
+        "projectUniqueName": "E:\\Angular Project\\Talabate\\Talabate.csproj",
         "projectName": "Talabate",
-        "projectPath": "D:\\Test talabate\\Talabate\\Talabate.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Test talabate\\Talabate\\obj\\",
+        "projectPath": "E:\\Angular Project\\Talabate\\Talabate.csproj",
+        "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
+        "outputPath": "E:\\Angular Project\\Talabate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -242,11 +242,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj": {
-                "projectPath": "D:\\Test talabate\\Talabat.Repositery\\Talabat.Repositery.csproj"
+              "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
+                "projectPath": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj"
               },
-              "D:\\Test talabate\\Talabat.services\\Talabat.services.csproj": {
-                "projectPath": "D:\\Test talabate\\Talabat.services\\Talabat.services.csproj"
+              "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj": {
+                "projectPath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj"
               }
             }
           }
@@ -300,7 +300,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

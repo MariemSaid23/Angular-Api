@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Test talabate\\",
+  "WorkspaceRootPath": "E:\\Angular Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|e:\\angular project\\talabat.repositery\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|e:\\angular project\\talabat.repositery\\data\\config\\order config\\deliverymethodconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\data\\config\\order config\\deliverymethodconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|e:\\angular project\\talabat.repositery\\data\\config\\order config\\orderitemconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\data\\config\\order config\\orderitemconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|e:\\angular project\\talabat.repositery\\data\\config\\order config\\orderconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\data\\config\\order config\\orderconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\entities\\order aggregate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\order aggregate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\entities\\order aggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\order aggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,22 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Talabate\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Talabate\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAgwIEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:17:38.009Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -37,6 +43,79 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.Repositery\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Data\\StoreContext.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.Repositery\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Data\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:58:08.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryMethodConfigrations.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.Repositery\\Data\\Config\\Order Config\\DeliveryMethodConfigrations.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Data\\Config\\Order Config\\DeliveryMethodConfigrations.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.Repositery\\Data\\Config\\Order Config\\DeliveryMethodConfigrations.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Data\\Config\\Order Config\\DeliveryMethodConfigrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:52:41.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItemConfigrations.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.Repositery\\Data\\Config\\Order Config\\OrderItemConfigrations.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Data\\Config\\Order Config\\OrderItemConfigrations.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.Repositery\\Data\\Config\\Order Config\\OrderItemConfigrations.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Data\\Config\\Order Config\\OrderItemConfigrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:37:50.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\Order Aggregate\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:17:03.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderConfigrations.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.Repositery\\Data\\Config\\Order Config\\OrderConfigrations.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Data\\Config\\Order Config\\OrderConfigrations.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.Repositery\\Data\\Config\\Order Config\\OrderConfigrations.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Data\\Config\\Order Config\\OrderConfigrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:08:25.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:01:50.889Z"
             }
           ]
         },

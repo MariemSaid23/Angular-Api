@@ -37,3 +37,7 @@ D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat.services.csproj.Assem
 D:\Test talabate\Talabat.services\bin\Debug\net6.0\Talabat.core.dll
 D:\Test talabate\Talabat.services\bin\Debug\net6.0\Talabat.core.pdb
 D:\Test talabate\Talabat.services\obj\Debug\net6.0\Talabat..D050D40D.Up2Date
+E:\Angular Project\Talabat.services\bin\Debug\net6.0\Talabat.core.dll
+E:\Angular Project\Talabat.services\bin\Debug\net6.0\Talabat.core.pdb
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.csproj.AssemblyReference.cache
+E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat..D050D40D.Up2Date
