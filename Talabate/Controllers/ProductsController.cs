@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Talabat.core.Entities;
 using Talabat.core.Repositories.Contract;
@@ -27,6 +29,8 @@ namespace Talabate.Controllers
             _categoriesRepo = categoriesRepo;
             _mapper = mapper;
         }
+
+         
         [HttpGet]
         public async Task<ActionResult<Pagination<ProductToReturnDto>>> GetProducts([FromQuery] ProductSpecParams specParams)
         {

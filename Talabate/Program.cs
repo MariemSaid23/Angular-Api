@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using StackExchange.Redis;
 using System.Net;
+using System.Text;
 using System.Text.Json;
 using Talabat.core.Entities.Identity;
 using Talabat.core.Repositories.Contract;
@@ -55,9 +58,7 @@ namespace Talabate
             }).AddEntityFrameworkStores<ApplicationIdentityDbContext>();
 
             //builder.Services.AddScoped(typeof(IAuthService),typeof(IAuthService));
-
-
-            builder.Services.AddScoped(typeof(IAuthService), typeof(AuthService));
+           builder.Services.AddAuthServices(builder.Configuration);
 
             var app = builder.Build();
             var loggerFactory = app.Services.GetRequiredService<ILoggerFactory>();
