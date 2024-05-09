@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\Test talabate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F40AAD2A-D3B4-43A5-AB5F-3EFE0C972C7B}|Talabat.services\\Talabat.services.csproj|d:\\test talabate\\talabat.services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F40AAD2A-D3B4-43A5-AB5F-3EFE0C972C7B}|Talabat.services\\Talabat.services.csproj|solutionrelative:talabat.services\\authservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,61 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Program.cs",
-              "RelativeDocumentMoniker": "Talabate\\Program.cs",
-              "ToolTip": "D:\\Test talabate\\Talabate\\Program.cs",
-              "RelativeToolTip": "Talabate\\Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAAEMAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T03:05:22.7Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationServicesExtension.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "RelativeDocumentMoniker": "Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "ToolTip": "D:\\Test talabate\\Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "RelativeToolTip": "Talabate\\Extensions\\ApplicationServicesExtension.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAmwEYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:39:09.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabat.services\\AuthService\\AuthService.cs",
-              "RelativeDocumentMoniker": "Talabat.services\\AuthService\\AuthService.cs",
-              "ToolTip": "D:\\Test talabate\\Talabat.services\\AuthService\\AuthService.cs",
-              "RelativeToolTip": "Talabat.services\\AuthService\\AuthService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCkAAAB4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:08:15.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Test talabate\\Talabate\\appsettings.json",
-              "RelativeDocumentMoniker": "Talabate\\appsettings.json",
-              "ToolTip": "D:\\Test talabate\\Talabate\\appsettings.json",
-              "RelativeToolTip": "Talabate\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T04:04:04.279Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -96,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Talabate\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Test talabate\\Talabate\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Talabate\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Talabate\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Talabate\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAowFsAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T02:49:36.687Z",
+              "WhenOpened": "2024-05-09T05:08:50.696Z",
               "EditorCaption": ""
             }
           ]
