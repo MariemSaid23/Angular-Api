@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Talabat.core.Entities.Identity;
+using Talabat.core.Services.Contract;
 using Talabate.Dtos;
 using Talabate.Errors;
 
@@ -12,14 +13,18 @@ namespace Talabate.Controllers
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly IAuthService _authService;
 
         public AccountController(
             UserManager<ApplicationUser> userManager,
-           SignInManager<ApplicationUser> signInManager
+           SignInManager<ApplicationUser> signInManager,
+
+           IAuthService authService
             )
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _authService = authService;
         }
 
 
@@ -38,7 +43,7 @@ namespace Talabate.Controllers
             {
                 DisplayName = user.DisplayName,
                 Email = user.Email,
-                Token = "This will be Token"
+                Token = await _authService.CreateTokenAsync(user,_userManager)
 
             });
 
@@ -65,7 +70,7 @@ namespace Talabate.Controllers
             {
                 DisplayName=user.DisplayName,
                 Email=user.Email,
-                Token="This will be Token"
+                Token=await _authService.CreateTokenAsync(user,_userManager)
             });
         }
     }

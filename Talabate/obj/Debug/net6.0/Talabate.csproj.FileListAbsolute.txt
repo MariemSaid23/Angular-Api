@@ -462,3 +462,7 @@ D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Key
 D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Test talabate\Talabate\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Test talabate\Talabate\bin\Debug\net6.0\Talabat.services.dll
+D:\Test talabate\Talabate\bin\Debug\net6.0\Talabat.services.pdb

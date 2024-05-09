@@ -5,9 +5,11 @@ using System.Net;
 using System.Text.Json;
 using Talabat.core.Entities.Identity;
 using Talabat.core.Repositories.Contract;
+using Talabat.core.Services.Contract;
 using Talabat.Repositery.Basket_Repository;
 using Talabat.Repositery.Data;
 using Talabat.Repositery.Identity;
+using Talabat.services.AuthService;
 using Talabate.Errors;
 using Talabate.Extensions;
 
@@ -51,6 +53,11 @@ namespace Talabate
             {
 
             }).AddEntityFrameworkStores<ApplicationIdentityDbContext>();
+
+            //builder.Services.AddScoped(typeof(IAuthService),typeof(IAuthService));
+
+
+            builder.Services.AddScoped(typeof(IAuthService), typeof(AuthService));
 
             var app = builder.Build();
             var loggerFactory = app.Services.GetRequiredService<ILoggerFactory>();
