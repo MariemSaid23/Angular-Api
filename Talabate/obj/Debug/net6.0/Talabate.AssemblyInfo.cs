@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Talabate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+939adf470d9d811d9baa143b5b297bb4c8faf1cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae35ba8567e33dbe33361d6ae68afd27ce18d63d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Talabate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Talabate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

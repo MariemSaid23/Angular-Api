@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Test talabate\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|d:\\test talabate\\talabate\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Program.cs",
+              "RelativeDocumentMoniker": "Talabate\\Program.cs",
+              "ToolTip": "D:\\Test talabate\\Talabate\\Program.cs",
+              "RelativeToolTip": "Talabate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:03:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Talabate\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Test talabate\\Talabate\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Talabate\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAowFsAAABQAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAIwHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T05:08:50.696Z",
+              "WhenOpened": "2024-05-09T12:47:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "D:\\Test talabate\\Talabate\\Dtos\\AddressDto.cs",
+              "RelativeDocumentMoniker": "Talabate\\Dtos\\AddressDto.cs",
+              "ToolTip": "D:\\Test talabate\\Talabate\\Dtos\\AddressDto.cs",
+              "RelativeToolTip": "Talabate\\Dtos\\AddressDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:47:25.417Z",
               "EditorCaption": ""
             }
           ]

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Newtonsoft.Json;
 using StackExchange.Redis;
 using System.Net;
 using System.Text;
@@ -25,7 +26,9 @@ namespace Talabate
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllers();
+            builder.Services.AddControllers().AddNewtonsoftJson(option=>{
+            option.SerializerSettings.ReferenceLoopHandling=ReferenceLoopHandling.Ignore;
+            });
 
 
             builder.Services.AddScoped<IConnectionMultiplexer>((ServiceProvider) =>
@@ -99,7 +102,7 @@ namespace Talabate
                         new ApiExcecutionResponse((int)HttpStatusCode.InternalServerError, ex.Message, ex.StackTrace.ToString()) :
                         new ApiExcecutionResponse((int)HttpStatusCode.InternalServerError);
                     var options = new JsonSerializerOptions() { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
-                    var json = JsonSerializer.Serialize(response, options);
+                    var json = System.Text.Json.JsonSerializer.Serialize(response, options);
                     await httpContext.Response.WriteAsync(json);
                 }
             });

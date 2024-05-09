@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Talabat.core.Entities;
 using Talabat.core.Entities.Basket;
+using Talabat.core.Entities.Identity;
 using Talabate.Dtos;
 
 namespace Talabate.Helpers
@@ -24,6 +25,8 @@ namespace Talabate.Helpers
             CreateMap<CustomerBasketDto, CustomerBasket>();
 
             CreateMap<BasketItemDto, BasketItem>();
+
+            CreateMap<Address, AddressDto>();
 
         }
 
