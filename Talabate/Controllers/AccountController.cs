@@ -111,6 +111,39 @@ namespace Talabate.Controllers
         }
 
 
+        [Authorize]
+        [HttpPut("address")]
+
+        public async Task<ActionResult<Address>> UpdateUserAddress(AddressDto address)
+        {
+
+            var updateAddress=_mapper.Map<Address>(address);
+            
+            var user = await _userManager.FindUserWithAddressAsync(User);
+            updateAddress.Id = user.Address.Id;
+            user.Address=updateAddress;
+
+             
+         var result=await _userManager.UpdateAsync(user);
+
+            if(!result.Succeeded)
+                return BadRequest(new ApiValidationErrorResponse()
+                {
+                    Errors= result.Errors.Select(E=>E.Description)
+
+                });
+
+
+           return Ok(address);
+
+
+
+
+
+
+        }
+
+
 
 
     }
