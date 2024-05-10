@@ -23,6 +23,7 @@ namespace Talabate
     {
         public static async Task Main(string[] args)
         {
+            string txt = "hi";
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -62,7 +63,17 @@ namespace Talabate
 
             //builder.Services.AddScoped(typeof(IAuthService),typeof(IAuthService));
            builder.Services.AddAuthServices(builder.Configuration);
+            //cors
+            builder.Services.AddCors(options => {
+                options.AddPolicy(txt,
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin();
+                        builder.AllowAnyMethod();
+                        builder.AllowAnyHeader();
+                    });
 
+            });
             var app = builder.Build();
             var loggerFactory = app.Services.GetRequiredService<ILoggerFactory>();
 
@@ -118,6 +129,7 @@ namespace Talabate
             app.UseStatusCodePagesWithReExecute("/errors/{0}");
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseCors(txt);
             app.MapControllers();
             app.Run();
         }

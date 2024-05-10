@@ -75,3 +75,16 @@ D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
 D:\Test talabate\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
 D:\Test talabate\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
 D:\Test talabate\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll
+E:\github\Talabat.core\bin\Debug\net6.0\Talabat.core.deps.json
+E:\github\Talabat.core\bin\Debug\net6.0\Talabat.core.dll
+E:\github\Talabat.core\bin\Debug\net6.0\Talabat.core.pdb
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.AssemblyReference.cache
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfoInputs.cache
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.AssemblyInfo.cs
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.csproj.CoreCompileInputs.cache
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.sourcelink.json
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.dll
+E:\github\Talabat.core\obj\Debug\net6.0\refint\Talabat.core.dll
+E:\github\Talabat.core\obj\Debug\net6.0\Talabat.core.pdb
+E:\github\Talabat.core\obj\Debug\net6.0\ref\Talabat.core.dll

@@ -62,8 +62,10 @@ namespace Talabate.Controllers
 
         public async Task<ActionResult<UserDto>> Register(RegistereDto model)
         {
+
             var user = new ApplicationUser()
             {
+               
                 DisplayName = model.DisplayName,
                 Email = model.Email,
                 UserName = model.Email.Split("@")[0],
@@ -75,7 +77,8 @@ namespace Talabate.Controllers
 
             return Ok(new UserDto()
             {
-                DisplayName=user.DisplayName,
+                message = "success",
+                DisplayName =user.DisplayName,
                 Email=user.Email,
                 Token=await _authService.CreateTokenAsync(user,_userManager)
             });

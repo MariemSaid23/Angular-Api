@@ -1794,11 +1794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
+      "projectUniqueName": "E:\\github\\Talabat.services\\Talabat.services.csproj",
       "projectName": "Talabat.services",
-      "projectPath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
+      "projectPath": "E:\\github\\Talabat.services\\Talabat.services.csproj",
       "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-      "outputPath": "E:\\Angular Project\\Talabat.services\\obj\\",
+      "outputPath": "E:\\github\\Talabat.services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1815,8 +1815,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj": {
-              "projectPath": "E:\\Angular Project\\Talabat.core\\Talabat.core.csproj"
+            "E:\\github\\Talabat.core\\Talabat.core.csproj": {
+              "projectPath": "E:\\github\\Talabat.core\\Talabat.core.csproj"
             }
           }
         }

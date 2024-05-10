@@ -41,3 +41,19 @@ E:\Angular Project\Talabat.services\bin\Debug\net6.0\Talabat.core.dll
 E:\Angular Project\Talabat.services\bin\Debug\net6.0\Talabat.core.pdb
 E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat.services.csproj.AssemblyReference.cache
 E:\Angular Project\Talabat.services\obj\Debug\net6.0\Talabat..D050D40D.Up2Date
+E:\github\Talabat.services\bin\Debug\net6.0\Talabat.services.deps.json
+E:\github\Talabat.services\bin\Debug\net6.0\Talabat.services.dll
+E:\github\Talabat.services\bin\Debug\net6.0\Talabat.services.pdb
+E:\github\Talabat.services\bin\Debug\net6.0\Talabat.core.dll
+E:\github\Talabat.services\bin\Debug\net6.0\Talabat.core.pdb
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.csproj.AssemblyReference.cache
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.AssemblyInfoInputs.cache
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.AssemblyInfo.cs
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.csproj.CoreCompileInputs.cache
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.sourcelink.json
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat..D050D40D.Up2Date
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.dll
+E:\github\Talabat.services\obj\Debug\net6.0\refint\Talabat.services.dll
+E:\github\Talabat.services\obj\Debug\net6.0\Talabat.services.pdb
+E:\github\Talabat.services\obj\Debug\net6.0\ref\Talabat.services.dll

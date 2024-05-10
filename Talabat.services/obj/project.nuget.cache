@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+HZ3omPXNAsaLanJf8RnvROza1ZgVPlpiepKHLWhC2Pe5U/KyIDWZI89ycWLdu1C1SmgnOwFDHduCH9XCAH0pQ==",
+  "dgSpecHash": "fceqS2dx8onKX95vPyQ7awuDNc23GDAfwi6AeqPdNvVIgmqnZjOI+OqFzwgGFOS8sqUyiQCx8XDWJ21rG86/tg==",
   "success": true,
-  "projectFilePath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj",
+  "projectFilePath": "E:\\github\\Talabat.services\\Talabat.services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alahram\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Alahram\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

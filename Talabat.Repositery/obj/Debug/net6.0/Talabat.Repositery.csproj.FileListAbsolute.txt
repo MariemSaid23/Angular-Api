@@ -94,3 +94,19 @@ D:\Test talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.dll
 D:\Test talabate\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
 D:\Test talabate\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
 D:\Test talabate\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll
+E:\github\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.deps.json
+E:\github\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.dll
+E:\github\Talabat.Repositery\bin\Debug\net6.0\Talabat.Repositery.pdb
+E:\github\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.dll
+E:\github\Talabat.Repositery\bin\Debug\net6.0\Talabat.core.pdb
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.AssemblyReference.cache
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfoInputs.cache
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.AssemblyInfo.cs
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.csproj.CoreCompileInputs.cache
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.sourcelink.json
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat..344F01DD.Up2Date
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.dll
+E:\github\Talabat.Repositery\obj\Debug\net6.0\refint\Talabat.Repositery.dll
+E:\github\Talabat.Repositery\obj\Debug\net6.0\Talabat.Repositery.pdb
+E:\github\Talabat.Repositery\obj\Debug\net6.0\ref\Talabat.Repositery.dll

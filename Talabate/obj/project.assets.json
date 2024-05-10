@@ -3393,11 +3393,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Angular Project\\Talabate\\Talabate.csproj",
+      "projectUniqueName": "E:\\github\\Talabate\\Talabate.csproj",
       "projectName": "Talabate",
-      "projectPath": "E:\\Angular Project\\Talabate\\Talabate.csproj",
+      "projectPath": "E:\\github\\Talabate\\Talabate.csproj",
       "packagesPath": "C:\\Users\\Alahram\\.nuget\\packages\\",
-      "outputPath": "E:\\Angular Project\\Talabate\\obj\\",
+      "outputPath": "E:\\github\\Talabate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alahram\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3414,11 +3414,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj": {
-              "projectPath": "E:\\Angular Project\\Talabat.Repositery\\Talabat.Repositery.csproj"
+            "E:\\github\\Talabat.Repositery\\Talabat.Repositery.csproj": {
+              "projectPath": "E:\\github\\Talabat.Repositery\\Talabat.Repositery.csproj"
             },
-            "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj": {
-              "projectPath": "E:\\Angular Project\\Talabat.services\\Talabat.services.csproj"
+            "E:\\github\\Talabat.services\\Talabat.services.csproj": {
+              "projectPath": "E:\\github\\Talabat.services\\Talabat.services.csproj"
             }
           }
         }
