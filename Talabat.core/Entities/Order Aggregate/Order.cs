@@ -15,7 +15,7 @@ namespace Talabat.core.Entities.Order_Aggregate
         public OrderStatus Status { get; set; } = OrderStatus.Pending;
 
         public Address Shippingaddress { get; set; } = null;
-        public DeliveryMethod DeliveryMethod { get; set; } = null;
+        public DeliveryMethod? DeliveryMethod { get; set; } = null;
 
         // public DeliveryMethod DeliveryMethod { get; set; }
         public ICollection<OrderItem> Items { get; set; } = new HashSet<OrderItem>();

@@ -1,5 +1,6 @@
 ﻿using System.Text.Json;
 using Talabat.core.Entities;
+using Talabat.core.Entities.Order_Aggregate;
 
 namespace Talabat.Repositery.Data
 {
@@ -51,6 +52,20 @@ namespace Talabat.Repositery.Data
                 }
             }
 
+            if (_dbContext.DeliveryMethod.Count() == 0)
+            {
+                var deliveryMethodsData = File.ReadAllText("../Talabat.Repositery/Data/DataSeed/delivery.json");
+                var deliveryMethods = JsonSerializer.Deserialize<List<DeliveryMethod>>(deliveryMethodsData);
+                if (deliveryMethods is not null && deliveryMethods.Count() > 0)
+                {
+                    foreach (var deliveryMethod in deliveryMethods)
+                    {
+                        _dbContext.Set<DeliveryMethod>().Add(deliveryMethod);
+                    }
+                    await _dbContext.SaveChangesAsync();
+
+                }
+            }
             //var productData = File.ReadAllText("../Talabat.Repositery/Data/DataSeed/products.json");
 
         }
