@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Angular Project\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\services.contract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\services.contract\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40AAD2A-D3B4-43A5-AB5F-3EFE0C972C7B}|Talabat.services\\Talabat.services.csproj|e:\\angular project\\talabat.services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40AAD2A-D3B4-43A5-AB5F-3EFE0C972C7B}|Talabat.services\\Talabat.services.csproj|solutionrelative:talabat.services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|e:\\angular project\\talabat.repositery\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|e:\\angular project\\talabat.repositery\\generic repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A40D525-F7D9-4688-9F3A-CA71B6CB9913}|Talabat.Repositery\\Talabat.Repositery.csproj|solutionrelative:talabat.repositery\\generic repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\extensions\\applicationservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|e:\\angular project\\talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B4777-55AC-4993-B229-C5A696C6079C}|Talabate\\Talabate.csproj|solutionrelative:talabate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\entities\\order aggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\entities\\order aggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\repositories.contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\repositories.contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|e:\\angular project\\talabat.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE235206-E27A-4FFD-8C66-FFF980C7E68E}|Talabat.core\\Talabat.core.csproj|solutionrelative:talabat.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +46,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\Services.Contract\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Services.Contract\\IOrderService.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.core\\Services.Contract\\IOrderService.cs",
+              "RelativeToolTip": "Talabat.core\\Services.Contract\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:43:16.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServicesExtension.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeDocumentMoniker": "Talabate\\Extensions\\ApplicationServicesExtension.cs",
+              "ToolTip": "E:\\Angular Project\\Talabate\\Extensions\\ApplicationServicesExtension.cs",
+              "RelativeToolTip": "Talabate\\Extensions\\ApplicationServicesExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:25:51.857Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -18,6 +81,96 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabate\\Program.cs",
+              "RelativeDocumentMoniker": "Talabate\\Program.cs",
+              "ToolTip": "E:\\Angular Project\\Talabate\\Program.cs",
+              "RelativeToolTip": "Talabate\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADgvyoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:20:55.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.Repositery\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\UnitOfWork.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.Repositery\\UnitOfWork.cs",
+              "RelativeToolTip": "Talabat.Repositery\\UnitOfWork.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:06:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.Repositery\\Generic Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Repositery\\Generic Repository\\GenericRepository.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.Repositery\\Generic Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Talabat.Repositery\\Generic Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:33:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "RelativeToolTip": "Talabat.core\\Entities\\Order Aggregate\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:21:09.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "Talabat.services\\OrderService\\OrderService.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "Talabat.services\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA4wFgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:10:29.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\Repositories.Contract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\Repositories.Contract\\IGenericRepository.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.core\\Repositories.Contract\\IGenericRepository.cs",
+              "RelativeToolTip": "Talabat.core\\Repositories.Contract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:32:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IunitOfWork.cs",
+              "DocumentMoniker": "E:\\Angular Project\\Talabat.core\\IunitOfWork.cs",
+              "RelativeDocumentMoniker": "Talabat.core\\IunitOfWork.cs",
+              "ToolTip": "E:\\Angular Project\\Talabat.core\\IunitOfWork.cs",
+              "RelativeToolTip": "Talabat.core\\IunitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:54:13.836Z"
             }
           ]
         },

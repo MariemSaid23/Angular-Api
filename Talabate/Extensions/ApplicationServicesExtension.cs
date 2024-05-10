@@ -2,9 +2,11 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Talabat.core;
 using Talabat.core.Repositories.Contract;
 using Talabat.core.Services.Contract;
 using Talabat.Repositery;
+using Talabat.Repositery.Basket_Repository;
 using Talabat.Repositery.Generic_Repository;
 using Talabat.services.AuthService;
 using Talabate.Errors;
@@ -17,7 +19,11 @@ namespace Talabate.Extensions
 public static IServiceCollection AddAplicationServices(this IServiceCollection services)
 
         {
-            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddScoped(typeof(IunitOfWork), typeof(UnitOfWork));
+
+            services.AddScoped(typeof(IBasketRepository), typeof(BasketRepository));
+
+            //services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddAutoMapper(typeof(MappingProfile));
 
             services.Configure<ApiBehaviorOptions>(Options =>

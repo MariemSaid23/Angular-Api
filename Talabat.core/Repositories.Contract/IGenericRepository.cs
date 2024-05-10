@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Talabat.core.Entities;
+using Talabat.core.Entities.Order_Aggregate;
 using Talabat.core.Specifications;
 
 namespace Talabat.core.Repositories.Contract
@@ -17,6 +18,9 @@ namespace Talabat.core.Repositories.Contract
         Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecifications<T> spec);
 
         Task<int> GetCountAsync(ISpecifications<T> spec);
-
+        void Add(T entity);
+        void Update(T entity);
+        void Delete(T entity);
+        void AddAsync(Order order);
     }
 }
